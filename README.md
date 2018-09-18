@@ -10,11 +10,12 @@ npm install
 
 ## Ejemplo:
 Con la ciudad:
+
 ``
 node app -d "Bogotá Colombia" 
 ``
 
-Ó con una idrección especifica y la ciudad:
+Ó con una dirección especifica y la ciudad:
 
 ``
 node app -d "Cr 88A 73 34, Bogotá"
